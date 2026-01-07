@@ -54,7 +54,7 @@ The `createServer` function receieves a callback function which exposes **reques
 
 We can generate a response for our client, by using the `write()` function that exists on the response object:
 ```javascript
-// Start the server listening on port number 8888
+// Configure the server, and expose the req and res objects
 const server = http.createServer((req, res) => {
   res.write("Hello from the server!")
   res.end() // don't forget to use .end() to finalise the transaction
