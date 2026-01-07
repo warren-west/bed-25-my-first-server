@@ -1,0 +1,27 @@
+[
+  {
+    "id": "S1",
+    "name": "Cat",
+    "description": "Small carnivorous mammals characterized by flexible bodies, quick reflexes, and sharp retractable claws."
+  },
+  {
+    "id": "S2",
+    "name": "Dog",
+    "description": "Domesticated carnivores of the family Canidae, known for their loyalty and diverse range of breeds and sizes."
+  },
+  {
+    "id": "S3",
+    "name": "Hamster",
+    "description": "Small rodents belonging to the subfamily Cricetinae, often kept as house pets and known for their cheek pouches."
+  },
+  {
+    "id": "S4",
+    "name": "Lizard",
+    "description": "A widespread group of squamate reptiles, ranging from small geckos to larger monitors, typically with scaly skin."
+  },
+  {
+    "id": "S5",
+    "name": "Rabbit",
+    "description": "Small mammals in the family Leporidae, known for their long ears, powerful hind legs, and social nature."
+  }
+]

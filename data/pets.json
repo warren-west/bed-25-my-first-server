@@ -1,0 +1,42 @@
+[
+  {
+    "id": "P001",
+    "name": "Luna",
+    "species": "Cat",
+    "color": "Calico",
+    "owner-name": "Sarah",
+    "owner-lastname": "Miller"
+  },
+  {
+    "id": "P002",
+    "name": "Buster",
+    "species": "Dog",
+    "color": "Golden",
+    "owner-name": "James",
+    "owner-lastname": "Wilson"
+  },
+  {
+    "id": "P003",
+    "name": "Pip",
+    "species": "Hamster",
+    "color": "White/Brown",
+    "owner-name": "Elena",
+    "owner-lastname": "Rodriguez"
+  },
+  {
+    "id": "P004",
+    "name": "Oliver",
+    "species": "Cat",
+    "color": "Grey Tabby",
+    "owner-name": "Marcus",
+    "owner-lastname": "Bennett"
+  },
+  {
+    "id": "P005",
+    "name": "Rex",
+    "species": "Lizard",
+    "color": "Green",
+    "owner-name": "Chloe",
+    "owner-lastname": "Thompson"
+  }
+]
